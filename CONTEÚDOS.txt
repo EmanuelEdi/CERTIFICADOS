@@ -1,0 +1,55 @@
+📚 Áreas de Estudo
+
+Segurança da Informação e Cibersegurança
+
+Curso: Endpoint Security - Cisco
+Curso: Introduction to Cybersecurity - Cisco
+Curso: Certificate-Introduction-Pentest - DESEC Security
+Curso: Formação Cybersecurity Specialist - DIO.ME
+Curso: Cyber Academy - FEBRABAN/Deloitte
+Curso: Cybersecurity - FIAP ON
+Curso: CEH v12 - Certified Ethical Hacker - Trainning
+Curso: ISO 27001 - Trainning
+Curso: Imersão Certified Ethical Hacker - Trainning
+Curso: Ciber Explorer - Bunker Cyber Security - IDCIBER
+Curso: Ciber Explorer - TUVIS Mensagens Instantâneas Empresariais. Seguro. Eficiente. Em Compliance. - IDCIBER
+Curso: Ciber Explorer Webdefense - KnowBe4 (Data Driven Security Awareness) - IDCIBER
+Curso: ESET Cloud Office Security - Workshop - IDCIBER
+Curso: Frameworks de Gestão de Riscos de Segurança da Informação (NIST RMF & ISO/IEC 27005) - TI Exames
+Curso: EXIN Information Security Foundation (ISFS) - TI Exames
+
+Redes e Infraestrutura
+
+Curso: CCNA: Introduction to Networks - Cisco
+Curso: Networking Basics - Cisco
+Curso: Gestão de Infraestrutura de TI - FIAP ON
+Desenvolvimento e Programação
+Curso: Java e Orientação a Objetos T5 - ONE - Alura
+Curso: Iniciante em Programação T5 - ONE - Alura
+Curso: Python - Santander Open Academy
+
+Inteligência Artificial e Ciência de Dados
+
+Curso: Inteligência Artificial e Computacional - FIAP ON
+Curso: Análise de Dados no Power BI - Fundação Bradesco
+Curso: Copilot: Fundamentos de IA da Microsoft - Santander Open Academy
+Curso: Google: Inteligência Artificial e Produtividade - Santander Open Academy
+Curso: Power BI - Santander Open Academy
+
+Desenvolvimento Ágil e DevOps
+
+Curso: DevOps & Agile Culture - FIAP ON
+Curso: Business Agility T5 - ONE - Alura
+
+Desenvolvimento Pessoal e Liderança
+
+Curso: Leadership Communication - FIAP ON
+Curso: Desenvolvimento Pessoal T5 - ONE - Alura
+Curso: Entendimento de Mercado - Santander Tech | ADA
+Curso: Básico sobre o funcionamento do computador - Santander Tech | ADA
+
+Tecnologias Emergentes e Fundamentos
+
+Curso: Soluções Tecnológicas Emergentes - FIAP ON
+Curso: Linux Fundamentos - FIAP ON
+Curso: Internet das Coisas - Santander Tech | ADA
